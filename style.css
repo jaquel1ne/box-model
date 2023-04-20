@@ -1,0 +1,35 @@
+div {
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: rgb(138,43,226);
+        
+    background-image: url("flor.jpg");
+    text-align: center;
+    box-shadow: inset 6px 6px 13px 3px red;
+    background-size: cover;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: rgb(174, 17, 114);
+
+    margin: auto;
+    margin-top: 100px;
+}
+
+div p {
+    padding-top: 100px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    
+
+}
